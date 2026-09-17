@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aploe&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aploe&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
 <!--
 **aploe/aploe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
